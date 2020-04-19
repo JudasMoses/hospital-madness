@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Interaction Zone
   layers:
   - Default
   - TransparentFX
@@ -13,7 +14,7 @@ TagManager:
   - UI
   - 
   - 
-  - 
+  - Walls
   - 
   - 
   - 
@@ -40,4 +41,22 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Floor
+    uniqueID: 2791090047
+    locked: 0
+  - name: Wall
+    uniqueID: 1574238465
+    locked: 0
+  - name: Player
+    uniqueID: 85344635
+    locked: 0
+  - name: Object
+    uniqueID: 954475919
+    locked: 0
+  - name: Patient
+    uniqueID: 1630775513
+    locked: 0
+  - name: Notification
+    uniqueID: 2723762017
     locked: 0
