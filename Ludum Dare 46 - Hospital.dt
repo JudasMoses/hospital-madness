@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-16"?>
-<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT1H54M53.2472928S" SolutionTotalViewTime="PT1H19M22.6714077S" SolutionTotalDebugTime="PT0S">
+<DevTrackerData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" SolutionTotalEditTime="PT22M55.2848824S" SolutionTotalViewTime="PT23M51.0898188S" SolutionTotalDebugTime="PT0S">
   <FileVersion>
     <Major>1</Major>
     <Minor>0</Minor>
@@ -14,261 +14,76 @@
   </ProjectsCreatedDateList>
   <SessionTimeList />
   <LastSessionTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT9.3675336S" EditActiveTime="PT0.8063422S">
-      <ModifiedDate>2020-04-20T13:28:56.6835223+08:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M21.2165691S" EditActiveTime="PT36.4083145S">
+      <ModifiedDate>2020-04-19T15:07:08.1402843+08:00</ModifiedDate>
       <ModifiedBy>Liam Boreback</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\AxisDistanceSortCameraHelper.cs</Item>
+      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\IPatient.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:28:54.8195678+08:00</CreatedDate>
+      <CreatedDate>2020-04-19T13:57:06.1935307+08:00</CreatedDate>
       <ViewedBy>Liam Boreback</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.9182933S" EditActiveTime="PT9.9809987S">
-      <ModifiedDate>2020-04-20T13:28:53.7863318+08:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT1M23.6491997S" EditActiveTime="PT49.7598757S">
+      <ModifiedDate>2020-04-19T13:59:05.3870022+08:00</ModifiedDate>
       <ModifiedBy>Liam Boreback</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\BedScript.cs</Item>
+      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\PlayerController.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:28:28.4809312+08:00</CreatedDate>
+      <CreatedDate>2020-04-19T13:58:08.5834487+08:00</CreatedDate>
       <ViewedBy>Liam Boreback</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M0.3361438S" EditActiveTime="PT9.9626135S">
-      <ModifiedDate>2020-04-20T13:06:31.3770647+08:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3M35.6081602S" EditActiveTime="PT7M24.9939065S">
+      <ModifiedDate>2020-04-19T15:07:19.8319524+08:00</ModifiedDate>
       <ModifiedBy>Liam Boreback</ModifiedBy>
       <EditedCount>1</EditedCount>
       <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\GraphicsManager.cs</Item>
+      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\WanderingPatient.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:03:00.2869431+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT44.1752209S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\TileManager.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:04:03.7119667+08:00</CreatedDate>
+      <CreatedDate>2020-04-19T13:18:27.4887509+08:00</CreatedDate>
       <ViewedBy>Liam Boreback</ViewedBy>
     </DevTrackerDataItem>
   </LastSessionTimeList>
   <TotalTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT9.3635441S" EditActiveTime="PT0.8063422S">
-      <ModifiedDate>2020-04-20T13:28:56.6835223+08:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT3M16.1886477S" EditActiveTime="PT2M24.8749067S">
+      <ModifiedDate>2020-04-19T15:07:08.1402843+08:00</ModifiedDate>
       <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\AxisDistanceSortCameraHelper.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:28:54.8195678+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.9182933S" EditActiveTime="PT9.9809987S">
-      <ModifiedDate>2020-04-20T13:28:53.7863318+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\BedScript.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:28:28.4809312+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M0.3361438S" EditActiveTime="PT9.9626135S">
-      <ModifiedDate>2020-04-20T13:06:31.3770647+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\GraphicsManager.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:03:00.2869431+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5M19.9801579S" EditActiveTime="PT3M7.7118183S">
-      <ModifiedDate>2020-04-19T17:12:59.2137338+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>3</EditedCount>
-      <ViewedCount>3</ViewedCount>
+      <EditedCount>2</EditedCount>
+      <ViewedCount>2</ViewedCount>
       <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\IInteractable.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
       <CreatedDate>2020-04-19T00:01:44.8468556+08:00</CreatedDate>
       <ViewedBy>Liam Boreback</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT17M42.2626227S" EditActiveTime="PT13M56.4420247S">
-      <ModifiedDate>2020-04-19T17:31:50.2027191+08:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT14M26.8621464S" EditActiveTime="PT12M26.6493469S">
+      <ModifiedDate>2020-04-19T13:59:05.3870022+08:00</ModifiedDate>
       <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>5</EditedCount>
-      <ViewedCount>5</ViewedCount>
+      <EditedCount>4</EditedCount>
+      <ViewedCount>4</ViewedCount>
       <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\PlayerController.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
       <CreatedDate>2020-04-18T12:44:53.956167+08:00</CreatedDate>
       <ViewedBy>Liam Boreback</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT50.6382076S" EditActiveTime="PT2M24.902073S">
-      <ModifiedDate>2020-04-19T17:08:53.820794+08:00</ModifiedDate>
+    <DevTrackerDataItem ViewActiveTime="PT4M31.6046339S" EditActiveTime="PT7M33.506588S">
+      <ModifiedDate>2020-04-19T15:07:19.8319524+08:00</ModifiedDate>
       <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\PlayerManager.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T17:06:03.5765946+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT6M42.4639024S" EditActiveTime="PT21M6.0031593S">
-      <ModifiedDate>2020-04-20T02:00:12.3756811+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
+      <EditedCount>2</EditedCount>
       <ViewedCount>2</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\TileManager.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T17:07:07.221891+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT20M24.5651214S" EditActiveTime="PT51M6.4490622S">
-      <ModifiedDate>2020-04-20T01:53:41.6005675+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>3</EditedCount>
-      <ViewedCount>3</ViewedCount>
       <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\WanderingPatient.cs</Item>
       <ItemType>ProjectItem</ItemType>
       <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
       <CreatedDate>2020-04-19T00:00:53.4199786+08:00</CreatedDate>
       <ViewedBy>Liam Boreback</ViewedBy>
     </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT27M7.1434135S" EditActiveTime="PT22M50.9901986S">
-      <ModifiedDate>2020-04-19T23:22:47.6592326+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\WoundedPatient.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T17:04:12.448599+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
   </TotalTimeList>
   <HistoryTimeList>
-    <DevTrackerDataItem ViewActiveTime="PT9.3645415S" EditActiveTime="PT0.8063422S">
-      <ModifiedDate>2020-04-20T13:28:56.6835223+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\AxisDistanceSortCameraHelper.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:28:54.8195678+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5.9182933S" EditActiveTime="PT9.9809987S">
-      <ModifiedDate>2020-04-20T13:28:53.7863318+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\BedScript.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:28:28.4809312+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT44.1752209S" EditActiveTime="PT0S">
-      <ModifiedDate>0001-01-01T00:00:00</ModifiedDate>
-      <EditedCount>0</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\TileManager.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:04:03.7119667+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT1M0.3361438S" EditActiveTime="PT9.9626135S">
-      <ModifiedDate>2020-04-20T13:06:31.3770647+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\GraphicsManager.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-20T13:03:00.2869431+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT15M52.9604875S" EditActiveTime="PT43M32.9424742S">
-      <ModifiedDate>2020-04-20T01:53:41.6005675+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\WanderingPatient.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T23:43:13.988395+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT2M3.7915102S" EditActiveTime="PT42.8369116S">
-      <ModifiedDate>2020-04-19T17:12:59.2137338+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\IInteractable.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T17:11:11.112224+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT5M58.2886815S" EditActiveTime="PT21M6.0031593S">
-      <ModifiedDate>2020-04-20T02:00:12.3756811+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\TileManager.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T17:07:07.221891+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT50.6382076S" EditActiveTime="PT2M24.902073S">
-      <ModifiedDate>2020-04-19T17:08:53.820794+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\PlayerManager.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T17:06:03.5765946+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT27M7.1434135S" EditActiveTime="PT22M50.9901986S">
-      <ModifiedDate>2020-04-19T23:22:47.6592326+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\WoundedPatient.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T17:04:12.448599+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
-    <DevTrackerDataItem ViewActiveTime="PT3M15.4004763S" EditActiveTime="PT1M29.7926778S">
-      <ModifiedDate>2020-04-19T17:31:50.2027191+08:00</ModifiedDate>
-      <ModifiedBy>Liam Boreback</ModifiedBy>
-      <EditedCount>1</EditedCount>
-      <ViewedCount>1</ViewedCount>
-      <Item>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assets\Scripts\PlayerController.cs</Item>
-      <ItemType>ProjectItem</ItemType>
-      <ProjectName>D:\Programming\Unity\Ludum Dare 46 - Hospital\Assembly-CSharp.csproj</ProjectName>
-      <CreatedDate>2020-04-19T16:55:25.6579605+08:00</CreatedDate>
-      <ViewedBy>Liam Boreback</ViewedBy>
-    </DevTrackerDataItem>
     <DevTrackerDataItem ViewActiveTime="PT1M23.6491997S" EditActiveTime="PT49.7598757S">
       <ModifiedDate>2020-04-19T13:59:05.3870022+08:00</ModifiedDate>
       <ModifiedBy>Liam Boreback</ModifiedBy>

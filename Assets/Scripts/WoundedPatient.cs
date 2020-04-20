@@ -7,9 +7,8 @@ public class WoundedPatient : MonoBehaviour, IPatient
 {
 	[Header("Settings")]
 	public int healTime;
-	public int bleedoutTime;    //In seconds
-	[Range(0, 5)]
-	public float spawnBloodChance;
+	//In seconds
+	public int bleedoutTime;
 
 	[Header("References")]
 	public Animator _animator;
@@ -20,7 +19,6 @@ public class WoundedPatient : MonoBehaviour, IPatient
 	bool currentlyHealing = false;
 	State healState = State.Waiting;
 	float health = 100;
-	bool hasBlood = false;
 
 
 	enum State
